@@ -1,0 +1,8 @@
+studentId, firstName, lastName, courseId, courseName, term, year
+123546851, john, smith, cst8288, Software Design Patterns,WINTER,2024
+9861534S2, jane, smyth, mat1101A, Intro to Math,FALL,2025
+3215619823, michael, hill,cst8288, Software Design Patterns,SUMMER,1955
+141093626,Qina,yuu,cst8888,Android,WINTER,2023
+128902049,K,W,cst8280,BI, FALL,2023
+128902050,Mary,Zhang,cst8281,Cobol,  WINTER 1  ,2024
+128902051,Kyle,Li,cst1101,System Design,summer,2020
